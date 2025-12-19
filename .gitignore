@@ -1,0 +1,6 @@
+target/*
+/target/
+/creational-patterns/
+/.settings/
+.classpath
+.project
