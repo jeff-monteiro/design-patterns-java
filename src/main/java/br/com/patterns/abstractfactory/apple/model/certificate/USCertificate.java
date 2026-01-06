@@ -1,4 +1,4 @@
-package br.com.cod3r.abstractfactory.apple.model.certificate;
+package br.com.patterns.abstractfactory.apple.model.certificate;
 
 public class USCertificate implements Certificate {
 

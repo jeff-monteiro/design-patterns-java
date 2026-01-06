@@ -1,4 +1,4 @@
-package br.com.cod3r.prototype.deepShallow.model;
+package br.com.patterns.prototype.deepShallow.model;
 
 public class Address implements Cloneable {
 	public String street;

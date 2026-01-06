@@ -1,9 +1,9 @@
-package br.com.cod3r.abstractfactory.apple.factory;
+package br.com.patterns.abstractfactory.apple.factory;
 
-import br.com.cod3r.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
-import br.com.cod3r.abstractfactory.apple.model.iphone.IPhone;
-import br.com.cod3r.abstractfactory.apple.model.iphone.IPhone11;
-import br.com.cod3r.abstractfactory.apple.model.iphone.IPhone11Pro;
+import br.com.patterns.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
+import br.com.patterns.abstractfactory.apple.model.iphone.IPhone;
+import br.com.patterns.abstractfactory.apple.model.iphone.IPhone11;
+import br.com.patterns.abstractfactory.apple.model.iphone.IPhone11Pro;
 
 public class IPhone11Factory extends IPhoneFactory {
 

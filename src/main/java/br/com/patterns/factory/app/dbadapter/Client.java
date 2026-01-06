@@ -1,4 +1,4 @@
-package br.com.cod3r.factory.app.dbadapter;
+package br.com.patterns.factory.app.dbadapter;
 
 public class Client {
 

@@ -1,6 +1,6 @@
-package br.com.cod3r.abstractfactory.apple.model.iphone;
+package br.com.patterns.abstractfactory.apple.model.iphone;
 
-import br.com.cod3r.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
+import br.com.patterns.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
 
 public class IPhoneX extends IPhone {
 

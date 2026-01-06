@@ -1,4 +1,4 @@
-package br.com.cod3r.prototype.animation.model;
+package br.com.patterns.prototype.animation.model;
 
 public class Person {
 	String line1;

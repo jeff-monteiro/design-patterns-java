@@ -1,7 +1,7 @@
-package br.com.cod3r.prototype.deepShallow;
+package br.com.patterns.prototype.deepShallow;
 
-import br.com.cod3r.prototype.deepShallow.model.Address;
-import br.com.cod3r.prototype.deepShallow.model.User;
+import br.com.patterns.prototype.deepShallow.model.Address;
+import br.com.patterns.prototype.deepShallow.model.User;
 
 public class Client {
 

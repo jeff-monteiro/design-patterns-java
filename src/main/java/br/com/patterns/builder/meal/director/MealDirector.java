@@ -1,4 +1,4 @@
-package br.com.cod3r.builder.meal.director;
+package br.com.patterns.builder.meal.director;
 
 public class MealDirector {
 

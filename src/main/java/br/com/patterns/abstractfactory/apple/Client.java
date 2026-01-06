@@ -1,4 +1,4 @@
-package br.com.cod3r.abstractfactory.apple;
+package br.com.patterns.abstractfactory.apple;
 
 public class Client {
 	
