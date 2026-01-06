@@ -5,7 +5,7 @@ import br.com.cod3r.factory.apple.model.IPhoneX;
 
 public class IPhoneXFactory extends IPhoneFactory {
 
-    public IPhone createIphone(){
+    public IPhone createIPhone(){
         return new IPhoneX();                                                                                                                       
     }
     
